@@ -303,5 +303,4 @@ Bachelor's degree required.
 
 ---
 
-*Built as an advanced NLU project demonstrating: NER, TF-IDF, semantic embeddings, and scoring engines.*#   R e s u m e _ A T S _ C h e c k e r  
- 
+*Built as an advanced NLU project demonstrating: NER, TF-IDF, semantic embeddings, and scoring engines.*#
